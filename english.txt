@@ -1,0 +1,53 @@
+MEN
+Games            Gold                          Silver                       Bronze
+1908 London      Eric Lemming, Sweden          Arne Halse, Norway           Otto Nilsson, Sweden
+1912 Stockholm   Eric Lemming, Sweden          Julius Saaristo, Finland     Mór Kóczán, Hungary
+1920 Antwerp     Jonni Myyrä, Finland          Urho Peltonen, Finland       Pekka Johansson, Finland
+1924 Paris       Jonni Myyrä, Finland          Gunnar Lindström, Sweden     Eugene Oberst, United States
+1928 Amsterdam   Erik Lundqvist, Sweden        Béla Szepes, Hungary         Olav Sunde, Norway
+1932 Los Angeles Matti Järvinen, Finland       Matti Sippala, Finland       Eino Penttilä, Finland
+1936 Berlin      Gerhard Stöck, Germany        Yrjö Nikkanen, Finland       Kalervo Toivonen, Finland
+1948 London      Tapio Rautavaara, Finland     Steve Seymour, United States József Várszegi, Hungary
+1952 Helsinki    Cy Young, United States       Bill Miller, United States   Toivo Hyytiäinen, Finland
+1956 Melbourne   Egil Danielsen, Norway        Janusz Sidło, Poland         Viktor Tsybulenko, Soviet Union
+1960 Rome        Viktor Tsybulenko, Soviet Union Walter Krüger, United Team of Germany Gergely Kulcsár, Hungary
+1964 Tokyo       Pauli Nevala, Finland         Gergely Kulcsár, Hungary     Jānis Lūsis, Soviet Union
+1968 Mexico City Jānis Lūsis, Soviet Union     Jorma Kinnunen, Finland      Gergely Kulcsár, Hungary
+1972 Munich      Klaus Wolfermann, West Germany Jānis Lūsis, Soviet Union  Bill Schmidt, United States
+1976 Montreal    Miklós Németh, Hungary        Hannu Siitonen, Finland      Gheorghe Megelea, Romania
+1980 Moscow      Dainis Kūla, Soviet Union     Aleksandr Makarov, Soviet Union Wolfgang Hanisch, East Germany
+1984 Los Angeles Arto Härkönen, Finland        David Ottley, Great Britain  Kenth Eldebrink, Sweden
+1988 Seoul       Tapio Korjus, Finland         Jan Železný, Czechoslovakia  Seppo Räty, Finland
+1992 Barcelona   Jan Železný, Czechoslovakia   Seppo Räty, Finland          Steve Backley, Great Britain
+1996 Atlanta     Jan Železný, Czech Republic   Steve Backley, Great Britain Seppo Räty, Finland
+2000 Sydney      Jan Železný, Czech Republic   Steve Backley, Great Britain Sergey Makarov, Russia
+2004 Athens      Andreas Thorkildsen, Norway   Vadims Vasiļevskis, Latvia   Sergey Makarov, Russia
+2008 Beijing     Andreas Thorkildsen, Norway   Ainārs Kovals, Latvia        Tero Pitkämäki, Finland
+2012 London      Keshorn Walcott, Trinidad and Tobago Antti Ruuskanen, Finland Vítězslav Veselý, Czech Republic
+2016 Rio de Janeiro Thomas Röhler, Germany     Julius Yego, Kenya           Keshorn Walcott, Trinidad and Tobago
+2020 Tokyo       Neeraj Chopra, India          Jakub Vadlejch, Czech Republic Vítězslav Veselý, Czech Republic
+
+
+WOMEN
+Games            Gold                          Silver                       Bronze
+1932 Los Angeles Babe Didrikson, United States Ellen Braumüller, Germany     Tilly Fleischer, Germany
+1936 Berlin      Tilly Fleischer, Germany      Luise Krüger, Germany         Maria Kwaśniewska, Poland
+1948 London      Herma Bauma, Austria          Kaisa Parviainen, Finland     Lily Carlstedt, Denmark
+1952 Helsinki    Dana Zátopková, Czechoslovakia Aleksandra Chudina, Soviet Union Yelena Gorchakova, Soviet Union
+1956 Melbourne   Inese Jaunzeme, Soviet Union  Marlene Ahrens, Chile         Nadezhda Konyayeva, Soviet Union
+1960 Rome        Elvīra Ozoliņa, Soviet Union  Dana Zátopková, Czechoslovakia Birutė Kalėdienė, Soviet Union
+1964 Tokyo       Mihaela Peneș, Romania        Márta Rudas, Hungary          Yelena Gorchakova, Soviet Union
+1968 Mexico City Angéla Németh, Hungary        Mihaela Peneș, Romania        Eva Janko, Austria
+1972 Munich      Ruth Fuchs, East Germany      Jacqueline Todten, East Germany Kate Schmidt, United States
+1976 Montreal    Ruth Fuchs, East Germany      Marion Becker, West Germany   Kate Schmidt, United States
+1980 Moscow      María Caridad Colón, Cuba     Saida Gunba, Soviet Union     Ute Hommola, East Germany
+1984 Los Angeles Tessa Sanderson, Great Britain Tiina Lillak, Finland       Fatima Whitbread, Great Britain
+1988 Seoul       Petra Felke, East Germany     Fatima Whitbread, Great Britain Beate Koch, East Germany
+1992 Barcelona   Silke Renk, Germany           Natalya Shikolenko, Unified Team Karen Forkel, Germany
+1996 Atlanta     Heli Rantanen, Finland        Louise McPaul, Australia      Trine Hattestad, Norway
+2000 Sydney      Trine Hattestad, Norway       Mirela Maniani-Tzelili, Greece Osleidys Menéndez, Cuba
+2004 Athens      Osleidys Menéndez, Cuba       Steffi Nerius, Germany        Mirela Maniani, Greece
+2008 Beijing     Barbora Špotáková, Czech Republic Christina Obergföll, Germany Goldie Sayers, Great Britain
+2012 London      Barbora Špotáková, Czech Republic Christina Obergföll, Germany Linda Stahl, Germany
+2016 Rio de Janeiro Sara Kolak, Croatia        Sunette Viljoen, South Africa Barbora Špotáková, Czech Republic
+2020 Tokyo       Liu Shiying, China            Maria Andrejczyk, Poland      Kelsey-Lee Barber, Australia
